@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "The Grand Ratking",
-    "currentPage": "page5.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -54,8 +54,8 @@
     "favicon": "@PROJECT_PATH@/assets/images/untitled-design-5-128x128.png",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-129713359-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-129713359-1');\r\n</script>",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>Policies</a>.",
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Policies</a>.",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='Policies.html'>Policies</a>.",
+    "gdpr": "By continiung you agree to our <a href='Policies.html'>Terms of Service</a> and <a href='Policies.html'>Privacy Policy</a>.",
     "sitemapSwitcher": "on",
     "uniqCompNum": 31,
     "versionPublish": "4.8.1",
@@ -65,9 +65,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
+        "title": "The Grand Ratking Home Page - Anything Anytime Anyplace For No Reason At All...",
+        "meta_descr": "Anything Anytime Anyplace For No Reason At All...\n...This is the mantra The Grand Ratking lives by - one that gives us the freedom to express any form of music within any context we choose. We are a collection of Boise musicians in pursuit of one of the most ridiculous side-projects fueled by our oddball chemistry. \n\nCurrently we have an epic song titled \"Blood on Blood\" and a music video for our Diablo III walkthrough titled \"A Beginners Guide to Whimsyshire\".\n\nComing this February we will be releasing our first EP titled \"Sigil Magick\" with five unreleased tracks recorded by Andy at the Chop Shop and Mastered by AudioSiege.\n",
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Anything Anytime Anyplace For No Reason At All... ...This is the mantra The Grand Ratking lives by - one that gives us the freedom to express any form of music within any context we choose. We are...\" />\n<meta name=\"keywords\" content=\"TGR, The Grand Ratking, Grand Ratking, Ratking, Boise Bands, Best Boise Bands, Boise The Grand Ratking, Ratking Band, Whimsyshire Walkthrough, Whimsyshire, Diablo III, AudioSiege, Chop Chop, The Grand Ratking Music, Ratking Music, New Boise Bands, Best New Music, Treefort 2019, TF2019, Treefort, The Grand Ratking Treefort\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"3 month\">\n<title>The Grand Ratking Home Page - Anything Anytime Anyplace For No Reason At All...</title>\n<!-- The Grand Ratking, TGR, Diablo III -->\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -597,7 +597,8 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "About",
-        "order": 5
+        "order": 5,
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Anything Anytime Anyplace For No Reason At All... ...This is the mantra The Grand Ratking lives by - one that gives us the freedom to express any form of music within any context we choose. We are...\" />\n<meta name=\"keywords\" content=\"TGR, The Grand Ratking, Grand Ratking, Ratking, Boise Bands, Best Boise Bands, Boise The Grand Ratking, Ratking Band, Whimsyshire Walkthrough, Whimsyshire, Diablo III, AudioSiege, Chop Chop, The Grand Ratking Music, Ratking Music, New Boise Bands, Best New Music, Treefort 2019, TF2019, Treefort, The Grand Ratking Treefort\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"3 month\">\n<title>The Grand Ratking Home Page - Anything Anytime Anyplace For No Reason At All...</title>\n<!-- The Grand Ratking, TGR, Diablo III -->\n"
       },
       "components": [
         {
@@ -1129,7 +1130,8 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Music",
-        "order": 4
+        "order": 4,
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Anything Anytime Anyplace For No Reason At All... ...This is the mantra The Grand Ratking lives by - one that gives us the freedom to express any form of music within any context we choose. We are...\" />\n<meta name=\"keywords\" content=\"TGR, The Grand Ratking, Grand Ratking, Ratking, Boise Bands, Best Boise Bands, Boise The Grand Ratking, Ratking Band, Whimsyshire Walkthrough, Whimsyshire, Diablo III, AudioSiege, Chop Chop, The Grand Ratking Music, Ratking Music, New Boise Bands, Best New Music, Treefort 2019, TF2019, Treefort, The Grand Ratking Treefort\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"3 month\">\n<title>The Grand Ratking Home Page - Anything Anytime Anyplace For No Reason At All...</title>\n<!-- The Grand Ratking, TGR, Diablo III -->\n"
       },
       "components": [
         {
@@ -1711,7 +1713,8 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Merch",
-        "order": 3
+        "order": 3,
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Anything Anytime Anyplace For No Reason At All... ...This is the mantra The Grand Ratking lives by - one that gives us the freedom to express any form of music within any context we choose. We are...\" />\n<meta name=\"keywords\" content=\"TGR, The Grand Ratking, Grand Ratking, Ratking, Boise Bands, Best Boise Bands, Boise The Grand Ratking, Ratking Band, Whimsyshire Walkthrough, Whimsyshire, Diablo III, AudioSiege, Chop Chop, The Grand Ratking Music, Ratking Music, New Boise Bands, Best New Music, Treefort 2019, TF2019, Treefort, The Grand Ratking Treefort\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"3 month\">\n<title>The Grand Ratking Home Page - Anything Anytime Anyplace For No Reason At All...</title>\n<!-- The Grand Ratking, TGR, Diablo III -->\n"
       },
       "components": [
         {
@@ -2248,7 +2251,8 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Instagram",
-        "order": 2
+        "order": 2,
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Anything Anytime Anyplace For No Reason At All... ...This is the mantra The Grand Ratking lives by - one that gives us the freedom to express any form of music within any context we choose. We are...\" />\n<meta name=\"keywords\" content=\"TGR, The Grand Ratking, Grand Ratking, Ratking, Boise Bands, Best Boise Bands, Boise The Grand Ratking, Ratking Band, Whimsyshire Walkthrough, Whimsyshire, Diablo III, AudioSiege, Chop Chop, The Grand Ratking Music, Ratking Music, New Boise Bands, Best New Music, Treefort 2019, TF2019, Treefort, The Grand Ratking Treefort\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"3 month\">\n<title>The Grand Ratking Home Page - Anything Anytime Anyplace For No Reason At All...</title>\n<!-- The Grand Ratking, TGR, Diablo III -->\n"
       },
       "components": [
         {
@@ -2784,11 +2788,12 @@
         }
       ]
     },
-    "page5.html": {
+    "Policies.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Policies",
-        "order": 1
+        "order": 1,
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Anything Anytime Anyplace For No Reason At All... ...This is the mantra The Grand Ratking lives by - one that gives us the freedom to express any form of music within any context we choose. We are...\" />\n<meta name=\"keywords\" content=\"TGR, The Grand Ratking, Grand Ratking, Ratking, Boise Bands, Best Boise Bands, Boise The Grand Ratking, Ratking Band, Whimsyshire Walkthrough, Whimsyshire, Diablo III, AudioSiege, Chop Chop, The Grand Ratking Music, Ratking Music, New Boise Bands, Best New Music, Treefort 2019, TF2019, Treefort, The Grand Ratking Treefort\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"3 month\">\n<title>The Grand Ratking Home Page - Anything Anytime Anyplace For No Reason At All...</title>\n<!-- The Grand Ratking, TGR, Diablo III -->\n"
       },
       "components": [
         {
